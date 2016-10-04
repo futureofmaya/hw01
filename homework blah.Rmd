@@ -1,0 +1,11 @@
+# Homework 1, Rita Biagioli
+
+## _Ok, not clear what I'm doing at all_
+1. First what I did was generally click around on Github. I forked the response and tried to edit it from there
+2. I created a pull request on the site
+3. I realized I was supposed to be using R Markdown in RStudio, so I attempted to clone the original document, which first opened in LaTeX, then I figured out how to open in in RStudio and make it such that I can commit, push, and pull. First I'll pull to make sure no other changes have happened since I've worked on this.
+4. As soon as I'm done writing this, I'll do exactly that and see if it works. Update: Had to click knit HTML. Not totally sure if that added anything to this process, but then I could see a preview...
+5. Hopefully, then this will be submitted. 
+
+> Here is a block quote, just for fun. __And here is a sentence in bold.__
+
