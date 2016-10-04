@@ -1,2 +1,2 @@
 # hw1
-Repository for first CFSS homework assignment
+I'm still not totally sure this is working... this is Rita Biagioli
